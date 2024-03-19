@@ -1,3 +1,5 @@
+# São operadores utilizados para definir o valor inicial ou sobrescrever o valor de uma variável.
+
 # Atribuição simples
 saldo = 50
 print(saldo)

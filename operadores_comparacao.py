@@ -1,3 +1,5 @@
+# São operadores utilizados para comparar dois valores.
+
 # igualdade
 saldo = 450
 saque = 200
